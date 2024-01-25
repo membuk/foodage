@@ -65,6 +65,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_squared_error
 from sklearn.model_selection import cross_val_score
 import numpy as np
+
 x_train, x_test, y_train, y_test = train_test_split(X, Y, test_size = 0.10, random_state=99)
 lm = LinearRegression()
 model = lm.fit(x_train, y_train)
