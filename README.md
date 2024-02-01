@@ -1,6 +1,6 @@
 # FOODAGE
 ### **What is our Project?**
-In this project, our aim is saving foods from shortage.
+In this project, our main purpose is to prevent famine by using Tensorflow.
 
 ***
 
@@ -23,10 +23,10 @@ In this project, our aim is saving foods from shortage.
   * [GitHub](https://github.com/membuk "Mehmet GitHub") -|- [LinkedIn](www.linkedin.com/in/mehmet-kekeç "Mehmet LinkedIn") -|- [Instagram](https://www.instagram.com/membuk/ "Mehmet Instagram")
 
 * __Özgür Yıldırım__ - Python Developer
-  * [GitHub](https://github.com/OzgurYldrm "Özgür GitHub") -|- [LinkedIn](www.linkedin.com/in/mehmet-kekeç "Özgür LinkedIn") -|- [Instagram](https://www.instagram.com/0zgur_yldrm/ "Özgür Instagram")
+  * [GitHub](https://github.com/OzgurYldrm "Özgür GitHub") -|- [LinkedIn](https://www.linkedin.com/in/%C3%B6zg%C3%BCr-y%C4%B1ld%C4%B1r%C4%B1m-6abb6429a/ "Özgür LinkedIn") -|- [Instagram](https://www.instagram.com/0zgur_yldrm/ "Özgür Instagram")
   
 * __Eren Gülbahar__ - Flutter Developer
   * [GitHub](https://github.com/erenglbhr "Eren GitHub") -|- [LinkedIn](https://www.linkedin.com/in/eren-g%C3%BClbahar-2534ba274/ "Eren LinkedIn") -|- [Instagram](https://www.instagram.com/eren_glbhr/ "Eren Instagram")
 
 * __Erdem Yıldırım__ - Visual Content Creator
-  * [GitHub](https://github.com/merdm "Erdem GitHub") -|- [LinkedIn](www.linkedin.com/in/mehmet-kekeç "Erdem LinkedIn") -|- [Instagram](https://www.instagram.com/merrdem_/ "Erdem Instagram")
+  * [GitHub](https://github.com/merdm "Erdem GitHub") -|- [LinkedIn](https://www.linkedin.com/in/erdem-y%C4%B1ld%C4%B1r%C4%B1m-897ba5203/ "Erdem LinkedIn") -|- [Instagram](https://www.instagram.com/merrdem_/ "Erdem Instagram")
