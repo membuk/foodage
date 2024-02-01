@@ -7,7 +7,7 @@ In this project, our aim is saving foods from shortage.
 ### **How can you use?**
 + First, download the app from `GitHub`
 + Open the `foodage.apk` file
-+ Enter your `.csv` file via `"Upload"` page
++ Enter your `.csv` file via `Upload` page
 + After see the file name and date on page, go to `Test` page and enter your menu
 + Here is your `result`
 
