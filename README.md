@@ -1,15 +1,28 @@
-# FOODAGE
 ### **What is our Project?**
 In this project, our main purpose is to prevent famine by using Tensorflow.
+
+***
+
+
+### **What is used?**
+We use:
++ Tensorflow
++ Keras
++ TFLite
++ Flutter
+
+First of all, 
 
 ***
 
 ### **How can you use?**
 + First, download the app from `GitHub`
 + Open the `foodage.apk` file
-+ Enter your `.csv` file via `Upload` page
++ Enter the `foodage.io` website and add your csv file here
++ Download the `model.tflite` file
++ Upload this file into app via `Upload` page
 + After see the file name and date on page, go to `Test` page and enter your menu
-+ Here is your `result`
++ Here is your predicted count
 
 ***
 
