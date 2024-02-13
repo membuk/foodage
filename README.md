@@ -1,5 +1,5 @@
 # **Foodage**
-In this project, our main purpose is to prevent famine. We create an app that you can make your own predictions for your own menus. This app have two main components: prediction page and upload csv file page.
+In this project, our main purpose is to prevent famine. We create an app that you can make your own predictions for your own menus. This app has two main components: prediction page and upload csv file page.
 
 ## **The Sustainable Development Goals**
 The Sustainable Development Goals (SDGs), also known as the Global Goals, are a set of 17 interlinked goals designed to be a "blueprint to achieve a better and more sustainable future for all." They were adopted by all United Nations Member States in 2015 as part of the 2030 Agenda for Sustainable Development. The SDGs address a wide range of global challenges, including poverty, inequality, climate change, environmental degradation, peace, and justice.
@@ -20,14 +20,14 @@ In test menu, users may make predictions via entering their own menu.
   
 ![Test Menu](/Files/unnamed.jpg)
 
-Result can be see easily.
+Results can be easily viewed.
 
 ## **Uploading data**
-There is an option to import users's own `.cvs` files for prediction.
+There is an option to import users' own `.cvs` files for prediction.
 + Click on the `Upload` button and choose the `.csv` file
 ![Upload Menu](/Files/unnamed.jpg)
 
-After the see file name and date, users can use their own data.
+After viewing the file name and date, users can use their own data.
 
 ## **Features**
 ### **Clear UI**
