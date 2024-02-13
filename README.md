@@ -46,7 +46,7 @@ We have incorporated language support to cater to diverse language preferences. 
 + Here is your predicted count
 
 **NOTE 1**: It works only Android devices, please make sure that you are using Android\
-**NOTE 2**: `Upload` page is still developing, so users can't use that page 
+**NOTE 2**: `Upload` page is still developing, so users can't use that page for now 
 
 ## **YouTube**
 ![YouTube](https://www.youtube.com/s/desktop/2d97f03c/img/favicon.ico) To find our YouTube channel click [here](https://youtube.com/@foodage23?si=8ugee22ZdCT9l4q9)
