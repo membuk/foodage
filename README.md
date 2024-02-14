@@ -34,13 +34,13 @@ After viewing the file name and date, users can use their own data.
 Our app's UI is designed for simplicity and clarity, prioritizing an intuitive experience. With clear visuals and organized navigation, users can effortlessly engage with our TensorFlow-powered predictions, ensuring easy interpretation and actionable insights.
 
 ### **Language Support**
-We have incorporated language support to cater to diverse language preferences. This expansion of language support significantly broadens the app's usability and makes it more accessible to a wider user base. For now, our app supports Turkish, English and Arabic languages.
+We have incorporated language support to cater to diverse language preferences. This expansion of language support significantly broadens the app's usability and makes it more accessible to a wider user base. For now, our app supports Turkish, English and Spanish languages.
 
 
 ## **Testing the App**
 + First, click [here]() to download the app
 + Open the `foodage.apk` file
-+ Go to the app, and go to `Test` page
++ Go to the downloaded app, and go to `Test` page
 + Enter your menu for prediction
 + Click `Predict` button to calculate count of people
 + Here is your predicted count
