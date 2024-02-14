@@ -1,5 +1,5 @@
 # **Foodage**
-In this project, our main purpose is to prevent famine. We create an app that you can make your own predictions for your own menus. This app has two main components: prediction page and upload csv file page.
+In this project, our main purpose is to prevent famine. We create an app that you can make your own predictions for your own menus. This app has two main components: `prediction page` and `upload csv file page`.
 
 ## **The Sustainable Development Goals**
 The Sustainable Development Goals (SDGs), also known as the Global Goals, are a set of 17 interlinked goals designed to be a "blueprint to achieve a better and more sustainable future for all." They were adopted by all United Nations Member States in 2015 as part of the 2030 Agenda for Sustainable Development. The SDGs address a wide range of global challenges, including poverty, inequality, climate change, environmental degradation, peace, and justice.
