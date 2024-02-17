@@ -5,7 +5,7 @@ In this project, our main purpose is to prevent famine. We create an app that yo
 The Sustainable Development Goals (SDGs), also known as the Global Goals, are a set of 17 interlinked goals designed to be a "blueprint to achieve a better and more sustainable future for all." They were adopted by all United Nations Member States in 2015 as part of the 2030 Agenda for Sustainable Development. The SDGs address a wide range of global challenges, including poverty, inequality, climate change, environmental degradation, peace, and justice.
 
 ## **Our Goals**
-Our project aligns with two goal of the SDGs:
+Our project aligns with two goals of the SDGs:
 * **Goal 2**: aims to end hunger, achieve food security and improved nutrition and promote sustainable agriculture
 * **Goal 12**: aims to ensure sustainable consumption and production patterns
 
@@ -23,7 +23,7 @@ In test menu, users may make predictions via entering their own menu.
 Results can be easily viewed.
 
 ## **Uploading data**
-There is an option to import users' own `.cvs` files for prediction.
+There is an option to import users' own `.csv` files for prediction.
 + Click on the `Upload` button and choose the `.csv` file
 ![Upload Menu](/Files/unnamed.jpg)
 
