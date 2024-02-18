@@ -52,10 +52,10 @@ We have incorporated language support to cater to diverse language preferences. 
 ![YouTube](https://www.youtube.com/s/desktop/2d97f03c/img/favicon.ico) To find our YouTube channel click [here](https://youtube.com/@foodage23?si=8ugee22ZdCT9l4q9)
 
 ## **Authors**
-* __Mehmet Kekeç__ - Head of the Project
+* __Mehmet Kekeç__ - Team Lead
   * [GitHub](https://github.com/membuk "Mehmet GitHub") -|- [LinkedIn](www.linkedin.com/in/mehmet-kekeç "Mehmet LinkedIn") -|- [Instagram](https://www.instagram.com/membuk/ "Mehmet Instagram")
 
-* __Özgür Yıldırım__ - Python Developer
+* __Özgür Yıldırım__ - AI Developer
   * [GitHub](https://github.com/OzgurYldrm "Özgür GitHub") -|- [LinkedIn](https://www.linkedin.com/in/%C3%B6zg%C3%BCr-y%C4%B1ld%C4%B1r%C4%B1m-6abb6429a/ "Özgür LinkedIn") -|- [Instagram](https://www.instagram.com/0zgur_yldrm/ "Özgür Instagram")
   
 * __Eren Gülbahar__ - Flutter Developer
