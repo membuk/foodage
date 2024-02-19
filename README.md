@@ -49,14 +49,16 @@ We have incorporated language support to cater to diverse language preferences. 
 + Open the `foodage.apk` file
 + Go to the downloaded app, and go to `Test` page
 + Enter your menu for prediction
-+ Click `Predict` button to calculate count of people
-+ Here is your predicted count
++ Click `Predict` button to calculate the number of people
++ Here is your prediction
 
 **NOTE 1**: It works only Android devices, please make sure that you are using Android\
 **NOTE 2**: `Upload` page is still developing, so users can't use that page for now 
 
 ## **YouTube**
-![YouTube](https://www.youtube.com/s/desktop/2d97f03c/img/favicon.ico) To find our YouTube channel click [here](https://youtube.com/@foodage23?si=8ugee22ZdCT9l4q9)
+![YouTube Channel](https://www.youtube.com/s/desktop/2d97f03c/img/favicon.ico) To find our YouTube channel click [here](https://youtube.com/@foodage23?si=8ugee22ZdCT9l4q9)
+
+![YouTube Video](https://www.youtube.com/s/desktop/2d97f03c/img/favicon.ico) To find our Demo Video click [here](https://youtube.com/@foodage23?si=8ugee22ZdCT9l4q9)
 
 ## **Authors**
 * __Mehmet Kekeç__ - Team Lead
