@@ -8,10 +8,8 @@ The Sustainable Development Goals (SDGs), also known as the Global Goals, are a 
 Our project aligns with two goals of the SDGs:
 * **Goal 2**: aims to end hunger, achieve food security and improved nutrition and promote sustainable agriculture
 * **Goal 12**: aims to ensure sustainable consumption and production patterns
-<img src="https://github.com/membuk/foodage/blob/main/Files/Goal_2.png?raw=true" width="180" height="180" />
-<img align="right" src="https://github.com/membuk/foodage/blob/main/Files/Goal_12.png?raw=true" width="180" height="180" />
+<img src="https://github.com/membuk/foodage/blob/main/Files/Goal_2.png?raw=true" width="180" height="180" /><img align="right" src="https://github.com/membuk/foodage/blob/main/Files/Goal_12.png?raw=true" width="180" height="180" />
 
-***
 ## **What are used?**
 + **Flutter** for cross-platform development of the user interface
 + **Tensorflow** and **Tensorflow Lite** for building and implementing artificial intelligence features
@@ -21,7 +19,7 @@ In test menu, users may make predictions via entering their own menu.
 + Choose the meals from the list that has already prepared
 + Click on `Predict` button to prediction
   
-<img align="center" src="https://github.com/membuk/foodage/blob/main/Files/Predict.jpg?raw=true" width="369" height="800" />
+<img align="center" src="https://github.com/membuk/foodage/blob/main/Files/Predict.jpg?raw=true" width="250"/>
 
 Results can be easily viewed.
 
@@ -29,7 +27,7 @@ Results can be easily viewed.
 There is an option to import users' own `.csv` files for prediction.
 + Click on the `Upload` button and choose the `.csv` file
 
-<img align="center" src="https://github.com/membuk/foodage/blob/main/Files/Upload.jpg?raw=true" width="369" height="800" />
+<img align="center" src="https://github.com/membuk/foodage/blob/main/Files/Upload.jpg?raw=true" width="250" />
 
 After viewing the file name and date, users can use their own data.
 
