@@ -18,14 +18,14 @@ In test menu, users may make predictions via entering their own menu.
 + Choose the meals from the list that has already prepared
 + Click on `Predict` button to prediction
   
-![Test Menu](/Files/unnamed.jpg)
+![Test Menu](/Files/Foodage.jpg)
 
 Results can be easily viewed.
 
 ## **Uploading data**
 There is an option to import users' own `.csv` files for prediction.
 + Click on the `Upload` button and choose the `.csv` file
-![Upload Menu](/Files/unnamed.jpg)
+![Upload Menu](/Files/Foodage.jpg)
 
 After viewing the file name and date, users can use their own data.
 
