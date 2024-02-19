@@ -45,7 +45,7 @@ We have incorporated language support to cater to diverse language preferences. 
 </p>
 
 ## **Testing the App**
-+ First, click [here]() to download the app
++ First, click [here](https://drive.google.com/file/d/1IPgSV8NsSaAnyzFWp52SrgdTaanxq2Zl/view?usp=sharing) to download the app
 + Open the `foodage.apk` file
 + Go to the downloaded app, and go to `Test` page
 + Enter your menu for prediction
