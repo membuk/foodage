@@ -11,6 +11,7 @@ Our project aligns with two goals of the SDGs:
 <img src="https://github.com/membuk/foodage/blob/main/Files/Goal_2.png?raw=true" width="180" height="180" />
 <img align="right" src="https://github.com/membuk/foodage/blob/main/Files/Goal_12.png?raw=true" width="180" height="180" />
 
+***
 ## **What are used?**
 + **Flutter** for cross-platform development of the user interface
 + **Tensorflow** and **Tensorflow Lite** for building and implementing artificial intelligence features
