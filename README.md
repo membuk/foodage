@@ -5,8 +5,6 @@ In this project, our main purpose is to prevent famine. We create an app that yo
 The Sustainable Development Goals (SDGs), also known as the Global Goals, are a set of 17 interlinked goals designed to be a "blueprint to achieve a better and more sustainable future for all." They were adopted by all United Nations Member States in 2015 as part of the 2030 Agenda for Sustainable Development. The SDGs address a wide range of global challenges, including poverty, inequality, climate change, environmental degradation, peace, and justice.
 
 ## **Our Goals**
-<img src="https://github.com/membuk/foodage/blob/main/Files/Goal_2.png?raw=true" width="180" height="180" /><img align="right" src="https://github.com/membuk/foodage/blob/main/Files/Goal_12.png?raw=true" width="180" height="180" />
-
 Our project aligns with two goals of the SDGs:
 * **Goal 2**: aims to end hunger, achieve food security and improved nutrition and promote sustainable agriculture
 * **Goal 12**: aims to ensure sustainable consumption and production patterns
@@ -19,16 +17,19 @@ Our project aligns with two goals of the SDGs:
 In test menu, users may make predictions via entering their own menu.
 + Choose the meals from the list that has already prepared
 + Click on `Predict` button to prediction
-  
-<img align="center" src="https://github.com/membuk/foodage/blob/main/Files/Predict.jpg?raw=true" width="250"/>
+<p align="center">
+<img src="https://github.com/membuk/foodage/blob/main/Files/Predict.jpg?raw=true" width="250"/>
+</p>
 
 Results can be easily viewed.
 
 ## **Uploading data**
 There is an option to import users' own `.csv` files for prediction.
-+ Click on the `Upload` button and choose the `.csv` file
++ Click on the `Train` button and choose the `.csv` file
 
-<img align="center" src="https://github.com/membuk/foodage/blob/main/Files/Upload.jpg?raw=true" width="250" />
+<p align="center">
+<img src="https://github.com/membuk/foodage/blob/main/Files/Upload.jpg?raw=true" width="250" />
+</p>
 
 After viewing the file name and date, users can use their own data.
 
@@ -38,7 +39,10 @@ Our app's UI is designed for simplicity and clarity, prioritizing an intuitive e
 
 ### **Language Support**
 We have incorporated language support to cater to diverse language preferences. This expansion of language support significantly broadens the app's usability and makes it more accessible to a wider user base. For now, our app supports Turkish, English and Spanish languages.
-
+<p align="center">
+<img src="https://github.com/membuk/foodage/blob/main/Files/Turkish.jpg?raw=true" width="200" /> <img src="https://github.com/membuk/foodage/blob/main/Files/English.jpg?raw=true" width="200" />
+<img src="https://github.com/membuk/foodage/blob/main/Files/Spanish.jpg?raw=true" width="200" />
+</p>
 
 ## **Testing the App**
 + First, click [here]() to download the app
