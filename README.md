@@ -18,7 +18,7 @@ In test menu, users may make predictions via entering their own menu.
 + Choose the meals from the list that has already prepared
 + Click on `Predict` button to prediction
 <p align="center">
-<img src="https://github.com/membuk/foodage/blob/main/Files/Predict.jpg?raw=true" width="250"/>
+<img src="https://github.com/membuk/foodage/blob/main/Pictures/Predict.jpg?raw=true" width="250"/>
 </p>
 
 Results can be easily viewed.
@@ -28,7 +28,7 @@ There is an option to import users' own `.csv` files for prediction.
 + Click on the `Train` button and choose the `.csv` file
 
 <p align="center">
-<img src="https://github.com/membuk/foodage/blob/main/Files/Upload.jpg?raw=true" width="250" />
+<img src="https://github.com/membuk/foodage/blob/main/Pictures/Upload.jpg?raw=true" width="250" />
 </p>
 
 After viewing the file name and date, users can use their own data.
@@ -40,8 +40,8 @@ Our app's UI is designed for simplicity and clarity, prioritizing an intuitive e
 ### **Language Support**
 We have incorporated language support to cater to diverse language preferences. This expansion of language support significantly broadens the app's usability and makes it more accessible to a wider user base. For now, our app supports Turkish, English and Spanish languages.
 <p align="center">
-<img src="https://github.com/membuk/foodage/blob/main/Files/Turkish.jpg?raw=true" width="200" /> <img src="https://github.com/membuk/foodage/blob/main/Files/English.jpg?raw=true" width="200" />
-<img src="https://github.com/membuk/foodage/blob/main/Files/Spanish.jpg?raw=true" width="200" />
+<img src="https://github.com/membuk/foodage/blob/main/Pictures/Turkish.jpg?raw=true" width="200" /> <img src="https://github.com/membuk/foodage/blob/main/Pictures/English.jpg?raw=true" width="200" />
+<img src="https://github.com/membuk/foodage/blob/main/Pictures/Spanish.jpg?raw=true" width="200" />
 </p>
 
 ## **Testing the App**
