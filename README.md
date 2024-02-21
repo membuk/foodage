@@ -14,9 +14,9 @@ Our project aligns with two goals of the SDGs:
 + **Tensorflow** and **Tensorflow Lite** for building and implementing artificial intelligence features
 
 ## **Prediction**
-In test menu, users may make predictions via entering their own menu.
-+ Choose the meals from the list that has already prepared
-+ Click on `Predict` button to prediction
+In the test menu, users may make predictions via entering their own menu.
++ Choose the meals from the list that has already been prepared
++ Click on `Predict` button for prediction
 <p align="center">
 <img src="https://github.com/membuk/foodage/blob/main/Pictures/Predict.jpg?raw=true" width="250"/>
 </p>
@@ -24,8 +24,9 @@ In test menu, users may make predictions via entering their own menu.
 Results can be easily viewed.
 
 ## **Uploading data**
-There is an option to import users' own `.csv` files for prediction.
+There is an option to import users' own `.csv` files for prediction
 + Click on the `Train` button and choose the `.csv` file
++ Separate your meals into four groups (only once for each file)
 
 <p align="center">
 <img src="https://github.com/membuk/foodage/blob/main/Pictures/Upload.jpg?raw=true" width="250" />
@@ -52,8 +53,7 @@ We have incorporated language support to cater to diverse language preferences. 
 + Click `Predict` button to calculate the number of people
 + Here is your prediction
 
-**NOTE 1**: It works only Android devices, please make sure that you are using Android\
-**NOTE 2**: `Upload` page is still developing, so users can't use that page for now 
+**NOTE**: It works only Android devices, please make sure that you are using Android
 
 ## **YouTube**
 ![YouTube Channel](https://www.youtube.com/s/desktop/2d97f03c/img/favicon.ico) To find our YouTube channel click [here](https://youtube.com/@foodage23?si=8ugee22ZdCT9l4q9)
