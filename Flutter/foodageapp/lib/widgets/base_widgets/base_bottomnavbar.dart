@@ -65,8 +65,8 @@ class _BaseBottomNavigationBarState extends State<BaseBottomNavigationBar>
         },
         tabs: const [
           Tab(icon: Icon(Icons.info_outline)),
-          Tab(icon: Icon(Icons.quiz)),
-          Tab(icon: Icon(Icons.update)),
+          Tab(icon: Icon(Icons.bar_chart)),
+          Tab(icon: Icon(Icons.cloud_upload)),
           Tab(icon: Icon(Icons.settings_rounded)),
         ],
       ),

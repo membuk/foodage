@@ -67,7 +67,7 @@ class _TrainScreenState extends State<TrainScreen> {
     setState(() => loading = false);
 
     if (map != null) {
-      AlertWidgets.showSuccess(text: "Başarıyla eğitildi.");
+      AlertWidgets.showSuccess(text: "Trained successully.");
     }
   }
 

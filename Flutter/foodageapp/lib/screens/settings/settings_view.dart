@@ -32,7 +32,7 @@ extension SettingsView on _SettingsScreenState {
                     child: Row(
                       children: [
                         Icon(
-                          Icons.language,
+                          Icons.translate,
                           color: Utils.appColor.textColor,
                         ),
                         const SizedBox(width: 10),

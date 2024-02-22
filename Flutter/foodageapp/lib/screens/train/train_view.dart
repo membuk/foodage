@@ -136,19 +136,19 @@ extension TrainView on _TrainScreenState {
                 borderRadius: BorderRadius.all(Radius.circular(8.0))),
             backgroundColor: Utils.appColor.backgroundColor,
             child: Container(
-                height: 200,
+                height: 220,
                 padding:
                     const EdgeInsets.symmetric(vertical: 8.0, horizontal: 16.0),
                 child: Column(
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
                     Text(
-                      "Emin misiniz?",
+                      "Are you sure?",
                       style: Utils.textStyles.headingStyle,
                     ),
                     const SizedBox(height: 15),
                     Text(
-                      "    Seçmediğiniz yemek(ler) var ve bunları seçmezseniz test aşamasında göremeyeceksiniz. Devam etmek istediğinize emin misiniz?",
+                      "    There are food(s) that you have not selected, and if you do not select them, you will not be able to see them during the testing phase. Are you sure you want to continue?",
                       style: Utils.textStyles.textStyle,
                     ),
                     const SizedBox(height: 10),
@@ -163,7 +163,7 @@ extension TrainView on _TrainScreenState {
                               ),
                               backgroundColor: Utils.appColor.primaryColor),
                           child: Text(
-                            "Evet",
+                            "Yes",
                             style: TextStyle(
                                 color: Utils.appColor.backgroundColor,
                                 fontWeight: FontWeight.bold),
@@ -179,7 +179,7 @@ extension TrainView on _TrainScreenState {
                             backgroundColor: Utils.appColor.primaryColor,
                           ),
                           child: Text(
-                            "Hayır",
+                            "No",
                             style: TextStyle(
                                 color: Utils.appColor.backgroundColor,
                                 fontWeight: FontWeight.bold),
