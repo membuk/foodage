@@ -46,7 +46,7 @@ We have incorporated language support to cater to diverse language preferences. 
 </p>
 
 ## **Testing the App**
-+ First, click [here](https://drive.google.com/file/d/1IPgSV8NsSaAnyzFWp52SrgdTaanxq2Zl/view?usp=sharing) to download the app
++ First, click [here](https://drive.google.com/file/d/1WKP7STqGfnFyypr9RGMb4pjnmH58rVMZ/view?usp=sharing) to download the app
 + Open the `foodage.apk` file
 + Go to the downloaded app, and go to `Test` page
 + Enter your menu for prediction
@@ -62,7 +62,7 @@ We have incorporated language support to cater to diverse language preferences. 
 
 ## **Authors**
 * __Mehmet Kekeç__ - Team Lead
-  * [GitHub](https://github.com/membuk "Mehmet GitHub") -|- [LinkedIn](www.linkedin.com/in/mehmet-kekeç "Mehmet LinkedIn") -|- [Instagram](https://www.instagram.com/membuk/ "Mehmet Instagram")
+  * [GitHub](https://github.com/membuk "Mehmet GitHub") -|- [LinkedIn](https://www.linkedin.com/in/mehmet-kekeç "Mehmet LinkedIn") -|- [Instagram](https://www.instagram.com/membuk/ "Mehmet Instagram")
 
 * __Özgür Yıldırım__ - AI Developer
   * [GitHub](https://github.com/OzgurYldrm "Özgür GitHub") -|- [LinkedIn](https://www.linkedin.com/in/%C3%B6zg%C3%BCr-y%C4%B1ld%C4%B1r%C4%B1m-6abb6429a/ "Özgür LinkedIn") -|- [Instagram](https://www.instagram.com/0zgur_yldrm/ "Özgür Instagram")
