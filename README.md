@@ -11,7 +11,7 @@ Our project aligns with two goals of the SDGs:
 
 ## **What are used?**
 + **Flutter** for cross-platform development of the user interface
-+ **Tensorflow** and **Tensorflow Lite** for building and implementing artificial intelligence features
++ **Tensorflow** for building and implementing artificial intelligence features
 
 ## **Prediction**
 In the test menu, users may make predictions via entering their own menu.
@@ -53,7 +53,8 @@ We have incorporated language support to cater to diverse language preferences. 
 + Click `Predict` button to calculate the number of people
 + Here is your prediction
 
-**NOTE**: It works only Android devices, please make sure that you are using Android
+**NOTE 1**: You can run the code directly in your emulator using the `Flutter` folder which is given above.  
+**NOTE 2**: Please make sure you are using **Android**
 
 ## **YouTube**
 ![YouTube Channel](https://www.youtube.com/s/desktop/2d97f03c/img/favicon.ico) To find our YouTube channel click [here](https://youtube.com/@foodage23?si=8ugee22ZdCT9l4q9)
