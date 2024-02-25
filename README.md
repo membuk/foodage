@@ -32,7 +32,7 @@ There is an option to import users' own `.csv` files for prediction
 <img src="https://github.com/membuk/foodage/blob/main/Pictures/Upload.jpg?raw=true" width="250" />
 </p>
 
-After viewing the file name and date, users can use their own data.
+After viewing the file name, users can separate their meals into four groups and use their own data.
 
 ## **Features**
 ### **Clear UI**
@@ -59,7 +59,7 @@ We have incorporated language support to cater to diverse language preferences. 
 ## **YouTube**
 ![YouTube Channel](https://www.youtube.com/s/desktop/2d97f03c/img/favicon.ico) To find our YouTube channel click [here](https://youtube.com/@foodage23?si=8ugee22ZdCT9l4q9)
 
-![YouTube Video](https://www.youtube.com/s/desktop/2d97f03c/img/favicon.ico) To find our Demo Video click [here](https://youtube.com/@foodage23?si=8ugee22ZdCT9l4q9)
+![YouTube Video](https://www.youtube.com/s/desktop/2d97f03c/img/favicon.ico) To find our Demo Video click [here](https://youtu.be/rRfHfQqrG98?si=sLpGA8_r0Okb0Ywk)
 
 ## **Authors**
 * __Mehmet Kekeç__ - Team Lead
