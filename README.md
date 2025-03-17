@@ -63,7 +63,7 @@ We have incorporated language support to cater to diverse language preferences. 
 
 ## **Authors**
 * __Mehmet Kekeç__ - Team Lead
-  * [GitHub](https://github.com/membuk "Mehmet GitHub") -|- [LinkedIn](https://www.linkedin.com/in/mehmet-kekeç "Mehmet LinkedIn") -|- [Instagram](https://www.instagram.com/membuk/ "Mehmet Instagram")
+  * [GitHub](https://github.com/membuk "Mehmet GitHub") -|- [LinkedIn](https://www.linkedin.com/in/mehmet-kekec "Mehmet LinkedIn") -|- [Instagram](https://www.instagram.com/membuk/ "Mehmet Instagram")
 
 * __Özgür Yıldırım__ - AI Developer
   * [GitHub](https://github.com/OzgurYldrm "Özgür GitHub") -|- [LinkedIn](https://www.linkedin.com/in/%C3%B6zg%C3%BCr-y%C4%B1ld%C4%B1r%C4%B1m-6abb6429a/ "Özgür LinkedIn") -|- [Instagram](https://www.instagram.com/0zgur_yldrm/ "Özgür Instagram")
